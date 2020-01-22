@@ -1,0 +1,11 @@
+{
+    "name": "greatcolorgame",
+    "version": "1.0.0",
+    "scripts": {
+        "start": "server.js"
+    },
+    "dependencies": {
+        "express": "4.13.3"
+    },
+    "author": "Chelsea Hicks"
+}
